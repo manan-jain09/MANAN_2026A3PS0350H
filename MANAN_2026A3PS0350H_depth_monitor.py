@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
 # ---- Config ----
-FILE_NAME = "depth_data.csv"
+FILE_NAME = "MANAN_2026A3PS0350H_depth_data.csv"
 DEPTH_COLUMN = "Depth (m)"
 SAFE_DEPTH = 10                  # meters from the surface considered "too shallow"
 ROLLING_WINDOW = 5
